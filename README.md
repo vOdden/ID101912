@@ -1,2 +1,3 @@
 # ID101912 - Object Oriented Programming
-Sigurd Odden
+Sigurd Odden  
+2018
