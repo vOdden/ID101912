@@ -1,2 +1,2 @@
-# ID101912 - Object oriented programming
+# ID101912 - Object Oriented Programming
 Sigurd Odden
